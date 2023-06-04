@@ -1,0 +1,29 @@
+.container{
+    background-color: #EDF9F6;
+    margin: 2% 12% !important;
+    padding: 3%;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.05);
+    font-size: 14px;
+}
+
+.page-title{
+    text-align: start;
+    text-align: 'center';
+    margin-bottom: '20px';
+}
+
+form {
+    width: 500px;
+    margin: 15px auto;
+    padding: 15px;
+    border: transparent;
+    background-color: #EDF9F6;
+}
+
+textarea {
+   resize: none;
+}
+
+button{
+    margin: 1% 0 !important;
+}
