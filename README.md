@@ -1,4 +1,4 @@
-# join-app
+# Event Sharing Platform
 A simple React app with Firebase integration for event sharing platform.
 
 <h2>Description</h2>
