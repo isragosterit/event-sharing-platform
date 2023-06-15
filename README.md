@@ -3,7 +3,7 @@ A simple React app with Firebase integration for event sharing platform.
 
 <h2>Description</h2>
 
-EventShare is a web application that allows users to share and discover events happening in their area. It provides a platform for users to create event listings with details such as event name, location, date, description, and category. The application utilizes Firebase Realtime Database to store and sync event data in real-time, ensuring that users have the latest information about events. Other users can browse and join these events based on their interests, creating a dynamic and interactive event-sharing community.
+Join App is a web application that allows users to share and discover events happening in their area. It provides a platform for users to create event listings with details such as event name, location, date, description, and category. The application utilizes Firebase Realtime Database to store and sync event data in real-time, ensuring that users have the latest information about events. Other users can browse and join these events based on their interests, creating a dynamic and interactive event-sharing community.
 
 <h2>Installation</h2>
 
