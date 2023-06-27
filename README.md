@@ -29,3 +29,5 @@ Event Participation: Users can join events they are interested in, and event org
 4. Start the development server using npm start.<br>
 5. Open your web browser and navigate to http://localhost:3000 to view the project.<br>
 
+### License
+This project is licensed under the MIT License.
